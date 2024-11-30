@@ -50,9 +50,17 @@ Using Power query on Excel, we filtered out unwanted data, removed some unnecess
 #### Results / Findings
 
 <img width="598" alt="GP 001" src="https://github.com/user-attachments/assets/89f3689e-926c-41b6-96a5-99b9a8a74529">
+
+
 <img width="384" alt="GP 005" src="https://github.com/user-attachments/assets/0e67f4dc-ed6e-4d60-a389-fb6f957f7205">
+
+
 <img width="221" alt="GP 004" src="https://github.com/user-attachments/assets/ce5f3f96-df78-4908-9a8e-e7badbfb376c">
+
+
 <img width="217" alt="GP 003" src="https://github.com/user-attachments/assets/1bb1e0d5-b0f7-46ed-b7b7-2eaa39560acb">
+
+
 <img width="604" alt="GP 002" src="https://github.com/user-attachments/assets/2a8e2b52-36cc-4fdc-8c5b-77438cb50dc9">
 
 
